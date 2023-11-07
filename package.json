@@ -1,0 +1,21 @@
+{
+  "name": "database-backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "one.js",
+  "scripts": {
+    "start": "node one.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "env": "^0.0.2",
+    "express": "^4.18.2",
+    "require": "^0.4.4"
+  }
+}
